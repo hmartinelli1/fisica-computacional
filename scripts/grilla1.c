@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
+// HOLA
 void llenar(int* red,int n_fila, int n_columna, float proba);
 void imprimir(int *red, int m, int n);
 
